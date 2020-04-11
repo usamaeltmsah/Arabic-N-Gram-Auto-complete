@@ -1,5 +1,7 @@
 # Arabic-N-Gram-Auto-complete
 
+This is Tri-gram Arabic auto-complete using Python and NLP technology.
+
 ## You can find the project on colab
 [Arabic autocomplete.ipynb](https://colab.research.google.com/drive/1AvGSaG8qPpCfAMw80ACWmwfEkFEFwT7R)
  
